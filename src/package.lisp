@@ -196,6 +196,7 @@
     #:is-key-up
     #:set-exit-key
     #:get-key-pressed
+    #:get-char-pressed
     #:is-gamepad-available
     #:is-gamepad-name
     #:get-gamepad-name
